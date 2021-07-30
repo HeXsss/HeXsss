@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrian aka HeXs 😉
-## I'm a Developer of [V-LIFE](https://v-life.pl/index.php)
-- 🌱 I’m currently learning everything
+## I'm a Developer for [V-LIFE](https://v-life.pl/index.php)
+- 🌱 I’m currently learning everything and know something
 - 👯 I’m looking to collaborate with other content creators
 ## Connect with me:
 Discord: HeXs#1970
