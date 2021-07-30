@@ -1,5 +1,5 @@
 ### Hi there, I'm Adrian aka HeXs 😉
-## I'm a Developer
+## I'm a Developer of V-LIFE.PL
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 ### Languages and Tools:
