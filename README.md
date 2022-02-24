@@ -4,7 +4,7 @@ I'm Full-Stack Engineer, currently looking for employment in IT industry. I have
 ### The Languages I use 🧑‍💻
 - Python
 - React & React Native with Redux
-- Javascript
+- Javascript and Typescript
 - C#
 - C++
 ### My Projects 🛠️
