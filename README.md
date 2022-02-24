@@ -10,3 +10,5 @@ I'm Full-Stack Engineer, currently looking for employment in IT industry. I have
 ### My Projects 🛠️
 - Scripting on [FiveM](https://fivem.net/) platform for polish roleplay server [V-LIFE](https://v-life.pl/index.php)
 - Refactoring of algorithms in various languages mainly in Python & NodeJS
+### Contact 🔗
+![](https://dcbadge.vercel.app/api/shield/337202471279656961)
