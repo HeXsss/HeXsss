@@ -7,6 +7,6 @@ I am a Full-Stack Engineer actively seeking employment in the IT industry. I hav
 - C#, C++, C
 ### My Projects 🛠️
 - Maintaining and training machine learning models containing various models from simple NN, CNN, Diffusion Models and Transformers using PyTorch, Tensorflow and Hugging Face Transformers in Python
-- Scripting on [FiveM](https://fivem.net/) platform for polish roleplay servers 5City, V-LIFE
+- Scripting on [FiveM](https://fivem.net/) platform for polish roleplay server 5City
 ### Contact 🔗
 [![Foo](https://dcbadge.vercel.app/api/shield/337202471279656961?compact=true)](https://discordapp.com/users/337202471279656961/)
