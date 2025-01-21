@@ -1,6 +1,6 @@
 # Cheerio!
 ### Something about me 👁️‍🗨️
-I am a Full-Stack Engineer actively seeking employment in the IT industry. I have completed courses in Front-End and Back-End development, as well as in Artificial Intelligence (AI), including Fundamentals of Deep Learning, Generative AI with Diffusion Models, and Rapid Application Development with Large Language Models (LLMs). In my spare time, I enjoy creating unique projects that depart from conventional patterns, blending my skills in AI and software development to bring innovative ideas to life.
+I have completed courses in Front-End and Back-End development, as well as in Artificial Intelligence (AI), including Fundamentals of Deep Learning, Generative AI with Diffusion Models, and Rapid Application Development with Large Language Models (LLMs). In my spare time, I enjoy creating unique projects that depart from conventional patterns, blending my skills in AI and software development to bring innovative ideas to life.
 ### The Languages I use 🧑‍💻
 - Python
 - Javascript, Typescript (with various frameworks like React, Solid or Vue...)
